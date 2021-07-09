@@ -1,2 +1,2 @@
 # add-and-lower-counter-in-js
-js project
+js project 1
